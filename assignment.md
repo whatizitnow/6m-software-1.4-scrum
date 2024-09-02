@@ -23,18 +23,14 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 ```
 Your answers here
 ```
-For Librarians
 As a librarian, I want to search for a book by title, author, or ISBN, so that I can easily locate and retrieve it.
 As a librarian, I want to manage the library's collection by adding, removing, and updating book records, so that the catalog is always accurate and up-to-date.
 As a librarian, I want to track the borrowing and returning of books, so that I can monitor overdue books and fines.
-For Students
 As a student, I want to search for books by title, author, or subject, so that I can find relevant reading materials for my studies.
 As a student, I want to borrow books from the library, so that I can access a wide range of educational resources.
 As a student, I want to renew my borrowed books online, so that I can avoid late fees and extend my access to the materials.
-For Parents
 As a parent, I want to check my child's borrowing history, so that I can monitor their reading habits and ensure they are returning books on time.
 As a parent, I want to receive notifications about overdue books, so that I can remind my child to return them promptly.
-For General Users
 As a user, I want to create a personal account, so that I can save my borrowing history and preferences.
 As a user, I want to provide feedback on the website and services, so that the library can improve its offerings.
 
